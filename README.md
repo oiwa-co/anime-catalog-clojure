@@ -174,5 +174,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 For questions or suggestions, please contact:
 
-**Isaac Narváez**  
+*Isaac Narváez*
 Email: [isaac.rkt@proton.me](mailto:isaac.rkt@proton.me)
