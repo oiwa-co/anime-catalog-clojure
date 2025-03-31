@@ -9,7 +9,7 @@
         ring-cors/ring-cors {:mvn/version "0.1.13"}}
   
  :aliases
- {:run-m {:main-opts ["-m" "animeapp.anim"]}
+ {:run-m {:main-opts ["-m" "animeapp.core"]}
   :run-x {:ns-default animeapp.anim
           :exec-fn greet
           :exec-args {:name "Clojure"}}
